@@ -1,0 +1,737 @@
+genome_id,genome_name,disk_AMC,disk_TZP,disk_LEX,disk_CPD,disk_FOX,disk_CZA,disk_CIP,disk_GEN,disk_AMK,disk_TGC,disk_MEM,disk_ETP,disk_AMP,mic_AMC,mic_AMK,mic_AMX,mic_CAZ,mic_CHL,mic_CIP,mic_FEP,mic_GEN,mic_MEM,mic_TGC,genome_path,genome_found
+B1,Escherichia coli,R,I,R,R,S,,S,R,,S,S,S,R,>64,4,>64,8,2,0.03,16,64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B1.fna,True
+B2,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,>64,2,>64,0.25,2,>4,0.125,64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B2.fna,True
+B3,Escherichia coli,R,S,R,R,S,,S,S,,S,S,S,R,>64,2,>64,0.25,2,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B3.fna,True
+B4,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,2,4,0.125,2,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B4.fna,True
+B6,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,8,2,4,0.125,4,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B6.fna,True
+B7,Escherichia coli,R,R,S,S,S,,S,S,S,,S,S,R,>64,2,>64,0.0625,4,1,0.5,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B7.fna,True
+B8,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,2,>64,0.25,,4,0.0625,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B8.fna,True
+B9,Escherichia coli (ESBL+),S,S,R,R,S,,S,S,S,S,S,S,R,>64,2,>64,16,8,0.03,32,1,0.015,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B9.fna,True
+B10,Escherichia coli,S,S,R,R,S,,S,S,S,,S,S,R,>64,2,>64,16,4,0.015,32,16,<0.004,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B10.fna,True
+B11,Escherichia coli,R,S,R,R,R,,S,S,S,,S,S,R,>64,2,>64,0.5,4,>4,<0.03,64,<0.004,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B11.fna,True
+B12,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,1,>64,0.0625,4,0.008,<0.03,2,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B12.fna,True
+B13,Escherichia coli,R,S,R,R,R,,S,S,S,,S,S,R,>64,2,>64,0.5,4,0.008,<0.03,2,0.008,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B13.fna,True
+B14,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,8,2,8,0.0625,2,0.008,<0.03,2,0.015,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B14.fna,True
+B15,Escherichia coli,R,S,S,S,S,,R,R,S,,S,S,R,>64,2,>64,0.25,2,1,0.125,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B15.fna,True
+B16,Escherichia coli,R,S,S,S,R,,R,R,S,,S,S,R,>64,2,>64,0.5,4,>4,0.125,>64,<0.004,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B16.fna,True
+B17,Escherichia coli (ESBL+),R,S,R,R,R,,R,R,S,S,S,I,R,>64,1,>64,>64,2,>4,>64,64,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B17.fna,True
+B18,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,8,2,8,0.0625,>64,,4,2,0.015,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B18.fna,True
+B19,Escherichia coli (ESBL+),S,S,R,R,S,,S,S,S,,S,S,R,>64,1,>64,16,8,0.125,8,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B19.fna,True
+B20,Escherichia coli (ESBL+),R,R,R,R,S,,S,S,S,,S,S,R,>64,2,>64,16,2,0.125,8,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B20.fna,True
+B21,Escherichia coli (ESBL+),R,S,R,R,S,,S,S,S,,S,S,R,>64,16,>64,64,2,,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B21.fna,True
+B22,Escherichia coli,R,R,S,S,S,,R,R,S,S,S,S,R,>64,16,>64,32,2,>4,16,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B22.fna,True
+B23,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,4,>64,0.125,2,0.008,<0.03,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B23.fna,True
+B24,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,8,>64,0.0625,0.5,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B24.fna,True
+B25,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,2,>64,0.125,2,0.008,0.0625,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B25.fna,True
+B27,Escherichia coli (ESBL+),R,R,S,R,S,,S,S,S,,S,S,R,>64,4,>64,4,2,0.008,4,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B27.fna,True
+B28,Escherichia coli (ESBL+),S,R,R,R,S,,S,S,S,,S,S,R,>64,4,>64,4,2,0.008,8,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B28.fna,True
+B29,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,16,4,16,0.125,2,0.008,>64,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B29.fna,True
+B31,Escherichia coli (ESBL+),S,R,R,R,S,,R,R,S,,S,S,R,>64,8,>64,64,4,>4,8,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B31.fna,True
+B33,Escherichia coli,R,,S,S,S,S,R,R,,S,S,S,R,>64,8,>64,0.125,2,>4,0.5,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B33.fna,True
+B34,Escherichia coli,R,,R,R,S,S,S,S,,S,S,S,R,>64,2,>64,>64,4,0.008,>64,0.5,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B34.fna,True
+B35,Escherichia coli (ESBL+),R,,R,R,S,S,R,R,,S,S,S,R,>64,16,>64,64,2,>4,64,>64,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B35.fna,True
+B37,Escherichia coli,S,,S,S,S,S,S,S,,S,S,S,S,4,1,8,0.0625,2,0.008,<0.03,0.5,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B37.fna,True
+B38,Escherichia coli,R,,R,R,R,S,S,S,,S,S,S,R,>64,2,>64,16,2,0.125,16,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B38.fna,True
+B39,Escherichia coli (ESBL+),R,,R,R,S,S,R,R,S,S,S,S,R,>64,8,>64,32,4,>4,32,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B39.fna,True
+B40,Escherichia coli (ESBL+),S,,R,R,S,S,R,S,,S,S,S,R,>64,,>64,16,,,8,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B40.fna,True
+B42,Escherichia coli,R,,S,S,S,S,S,S,,S,S,S,R,>64,2,>64,0.125,1,0.0625,>64,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B42.fna,True
+B43,Escherichia coli,S,,R,R,S,S,R,S,,S,S,S,R,>64,4,>64,64,4,>4,64,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B43.fna,True
+B44,Escherichia coli,R,,S,S,S,S,S,S,,S,S,S,R,>64,8,>64,0.0625,2,0.03,32,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B44.fna,True
+B45,Escherichia coli (ESBL+),R,,R,R,S,S,R,R,S,S,S,S,R,>64,8,>64,64,4,>4,8,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B45.fna,True
+B46,Escherichia coli (CARB+),R,,R,R,S,S,S,S,S,S,S,R,R,>64,1,>64,>64,,0.008,>64,0.5,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B46.fna,True
+B47,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,>64,16,>64,64,4,>4,64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B47.fna,True
+B48,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,2,>64,0.0625,2,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B48.fna,True
+B49,Escherichia coli (ESBL+),S,S,R,R,S,,R,S,,S,S,S,R,>64,2,>64,64,4,>4,64,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B49.fna,True
+B50,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,R,>64,4,>64,0.125,2,0.008,32,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B50.fna,True
+B51,Escherichia coli (ESBL+),S,R,R,R,S,,R,R,S,S,S,S,R,>64,8,>64,32,4,>4,8,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B51.fna,True
+B52,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.125,4,0.008,0.0625,0.5,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B52.fna,True
+B53,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,2,>64,0.0625,2,0.008,32,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B53.fna,True
+B54,Escherichia coli (ESBL+),R,S,R,R,S,S,R,S,S,S,S,S,R,>64,8,>64,16,2,>4,8,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B54.fna,True
+B55,Escherichia coli (ESBL+),R,S,R,R,S,S,S,S,S,S,S,S,R,>64,2,>64,4,4,0.008,8,0.5,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B55.fna,True
+B57,Escherichia coli (ESBL+),S,S,S,R,S,S,R,R,S,S,S,S,R,>64,2,>64,64,>64,0.25,1,64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B57.fna,True
+B58,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,2,>64,0.0625,2,0.0625,<0.03,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B58.fna,True
+B59,Escherichia coli,S,S,R,R,S,S,R,S,S,S,S,S,R,,4,,,4,>4,16,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B59.fna,True
+B60,Escherichia coli (ESBL+),S,S,R,R,S,,S,R,S,S,S,S,R,>64,4,>64,16,4,0.008,8,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B60.fna,True
+B61,Escherichia coli,,S,R,R,S,S,R,S,S,S,S,S,R,32,4,4,0.125,2,>4,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B61.fna,True
+B63,Escherichia coli,R,S,S,S,S,,R,S,,S,S,S,R,>64,4,>64,0.25,4,0.5,0.125,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B63.fna,True
+B64,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,R,>64,4,>64,8,4,>4,4,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B64.fna,True
+B65,Escherichia coli,I,S,S,S,S,,S,R,,S,S,S,R,>64,2,>64,0.125,8,0.008,0.0625,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B65.fna,True
+B66,Escherichia coli,R,S,R,R,S,S,S,S,S,S,S,S,R,>64,2,>64,0.5,2,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B66.fna,True
+B67,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.25,4,0.008,0.0625,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B67.fna,True
+B69,Escherichia coli,R,R,R,R,R,,S,S,,S,S,S,R,>64,4,>64,8,4,0.008,0.125,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B69.fna,True
+B70,Escherichia coli,S,S,S,S,S,,R,S,,S,S,S,S,8,4,8,0.125,2,>4,<0.03,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B70.fna,True
+B71,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,>64,1,2,0.008,0.125,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B71.fna,True
+B72,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,4,>64,0.125,2,0.0625,16,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B72.fna,True
+B73,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,R,>64,2,>64,8,1,>4,8,0.5,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B73.fna,True
+B74,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,,2,,,2,0.008,,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B74.fna,True
+B75,Escherichia coli,R,S,R,R,R,S,S,S,S,S,S,S,R,>64,4,>64,2,2,0.008,0.125,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B75.fna,True
+B77,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,4,8,0.125,2,0.125,0.0625,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B77.fna,True
+B80,Escherichia coli (ESBL+),R,R,R,R,S,S,R,R,I,S,S,S,R,>64,32,>64,64,64,>4,8,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B80.fna,True
+B81,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,,>64,0.0625,,,<0.03,,0.015,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B81.fna,True
+C1,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,,>64,0.125,,,<0.03,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C1.fna,True
+C2,Escherichia coli (ESBL+),S,S,R,R,S,S,S,S,S,S,S,S,R,>64,4,>64,0.5,16,>4,2,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C2.fna,True
+C3,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,>64,2,>64,0.125,>64,>4,0.125,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C3.fna,True
+C9,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,2,>64,0.25,2,0.0625,0.0625,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C9.fna,True
+C10,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,4,8,0.125,4,>4,<0.03,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C10.fna,True
+C11,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,2,>64,0.125,2,>4,0.0625,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C11.fna,True
+C12,Escherichia coli,S,S,R,S,R,,S,S,,R,S,S,R,>64,2,>64,0.5,32,0.0625,0.5,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C12.fna,True
+C13,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,4,8,0.125,4,0.008,<0.03,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C13.fna,True
+C16,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,4,>64,0.25,>64,>4,0.0625,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C16.fna,True
+C18,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,8,0.125,2,0.0625,<0.03,64,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C18.fna,True
+C19,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,4,>64,0.25,4,>4,32,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C19.fna,True
+C20,Escherichia coli (ESBL+),R,S,R,R,S,,R,R,,S,S,S,R,>64,8,>64,32,2,>4,8,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C20.fna,True
+C22,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,4,8,,8,0.03,,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C22.fna,True
+C23,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,2,,,4,0.008,,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C23.fna,True
+C24,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,4,>64,0.125,4,>4,0.0625,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C24.fna,True
+C25,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,4,8,0.0625,4,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C25.fna,True
+C28,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,>64,8,>64,16,4,>4,8,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C28.fna,True
+C29,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,>64,0.125,4,0.008,0.0625,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C29.fna,True
+C30,Escherichia coli,R,S,S,S,S,,R,S,,S,S,S,R,>64,2,>64,1,4,>4,0.5,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C30.fna,True
+C31,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.125,2,0.008,0.0625,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C31.fna,True
+C32,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,>64,8,>64,16,2,>4,8,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C32.fna,True
+C33,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,>64,2,>64,0.5,4,>4,0.125,64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C33.fna,True
+C34,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,8,0.25,2,0.25,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C34.fna,True
+C36,Escherichia coli,R,S,S,S,S,S,R,R,S,S,S,S,R,>64,8,64,0.25,8,>4,0.25,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C36.fna,True
+C37,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,>64,0.125,4,0.008,0.0625,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C37.fna,True
+C38,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,R,>64,4,>64,4,2,>4,2,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C38.fna,True
+C44,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,4,>64,0.125,4,0.008,<0.03,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C44.fna,True
+C45,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,4,>64,0.0625,4,0.125,>64,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C45.fna,True
+C46,Escherichia coli (ESBL+),S,S,R,R,S,S,R,R,S,S,S,S,R,>64,16,>64,64,4,>4,64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C46.fna,True
+C47,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.125,2,0.008,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C47.fna,True
+C49,Escherichia coli,R,S,R,R,S,,R,S,,S,S,S,R,>64,16,>64,8,2,>4,1,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C49.fna,True
+C50,Escherichia coli,R,S,S,S,S,,S,S,,R,S,S,R,>64,8,>64,1,4,0.008,0.125,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C50.fna,True
+C53,Escherichia coli,S,S,S,S,S,,R,R,,R,S,S,R,,2,,,4,>4,,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C53.fna,True
+C54,Escherichia coli,S,S,S,S,S,,R,S,,S,S,S,S,4,4,8,0.25,2,0.125,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C54.fna,True
+C55,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,4,>64,0.25,4,>4,<0.03,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C55.fna,True
+C57,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,>64,4,>64,0.125,1,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C57.fna,True
+C58,Escherichia coli (ESBL+),R,I,R,R,S,S,R,R,I,S,S,S,R,>64,8,>64,>64,4,2,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C58.fna,True
+C59,Escherichia coli (ESBL+),R,R,R,R,S,S,R,S,S,S,S,S,R,>64,8,>64,32,1,>4,16,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C59.fna,True
+C60,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,2,4,0.125,2,0.015,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C60.fna,True
+C61,Escherichia coli (ESBL+),S,S,R,R,S,S,S,R,S,S,S,S,R,>64,4,>64,8,2,0.0625,8,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C61.fna,True
+C63,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.125,2,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C63.fna,True
+C65,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,4,>64,0.25,2,0.125,0.0625,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C65.fna,True
+C66,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,2,>64,0.125,2,0.008,<0.03,64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C66.fna,True
+C68,Escherichia coli (ESBL+),S,S,R,R,S,S,S,S,S,S,S,S,R,>64,2,>64,32,2,0.25,32,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C68.fna,True
+C69,Escherichia coli,R,S,R,R,S,S,S,S,S,S,S,S,R,>64,4,>64,1,4,0.008,0.0625,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C69.fna,True
+C70,Escherichia coli (ESBL+),S,S,R,R,S,S,S,S,S,S,S,S,R,>64,2,>64,16,1,0.015,8,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C70.fna,True
+C72,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,>64,8,>64,32,2,>4,16,64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C72.fna,True
+C73,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.5,2,0.008,0.0625,0.5,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C73.fna,True
+C75,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,4,>64,0.25,2,>4,0.125,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C75.fna,True
+C76,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,4,4,0.125,2,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C76.fna,True
+C79,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,>64,0.125,2,0.008,0.0625,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C79.fna,True
+C81,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,,>64,0.25,,,<0.03,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C81.fna,True
+D1,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,4,0.125,1,0.008,<0.03,,0.008,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D1.fna,True
+D4,Escherichia coli,R,R,R,R,R,S,S,S,S,S,S,S,R,>64,2,>64,0.5,4,0.008,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D4.fna,True
+D8,Escherichia coli,R,I,R,S,R,S,R,S,S,S,S,S,R,,4,,,4,0.5,,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D8.fna,True
+D9,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,4,0.0625,1,0.0625,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D9.fna,True
+D10,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,4,0.125,2,0.008,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D10.fna,True
+D11,Escherichia coli (ESBL+),R,I,R,R,S,,R,R,S,S,S,S,R,>64,8,>64,16,4,>4,16,64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D11.fna,True
+D13,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,>64,8,>64,0.25,2,>4,0.25,64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D13.fna,True
+D14,Escherichia coli (ESBL+),R,S,R,R,S,S,R,S,S,S,S,S,R,>64,16,>64,2,2,>4,2,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D14.fna,True
+D15,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,R,>64,4,>64,8,2,>4,2,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D15.fna,True
+D16,Escherichia coli,R,S,R,R,R,S,S,S,S,S,S,S,R,>64,2,>64,8,2,0.008,0.0625,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D16.fna,True
+D19,Escherichia coli,R,S,R,S,S,,S,S,,S,S,S,R,>64,4,>64,0.25,4,0.125,0.125,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D19.fna,True
+D20,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,>64,2,>64,0.5,32,>4,0.25,32,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D20.fna,True
+D21,Escherichia coli,R,S,R,R,S,,S,S,,S,S,S,R,>64,8,>64,0.5,1,0.008,<0.03,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D21.fna,True
+D22,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,,64,0.5,,,0.0625,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D22.fna,True
+D23,Escherichia coli (ESBL+),R,S,R,R,S,,R,S,,S,S,S,R,>64,16,>64,8,4,>4,4,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D23.fna,True
+D24,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,>64,4,>64,0.25,4,0.25,0.125,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D24.fna,True
+D26,Escherichia coli,R,R,R,R,S,,R,S,R,,S,S,R,>64,,>64,>64,,,>64,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D26.fna,True
+D28,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,2,>64,0.125,2,0.008,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D28.fna,True
+D29,Escherichia coli,R,R,R,R,R,,S,S,S,,S,S,R,>64,,>64,4,,,0.125,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D29.fna,True
+D30,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,4,>64,0.125,4,0.03,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D30.fna,True
+D31,Escherichia coli,R,R,S,S,S,,S,S,S,,S,S,R,>64,4,>64,0.5,4,0.008,0.125,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D31.fna,True
+D32,Escherichia coli,S,S,S,S,S,,S,R,S,,S,S,R,>64,2,>64,0.125,2,0.008,<0.03,64,0.015,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D32.fna,True
+D34,Escherichia coli (ESBL+),R,I,R,R,S,,R,S,S,S,S,S,R,>64,8,>64,32,2,>4,>64,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D34.fna,True
+D35,Escherichia coli,R,S,S,S,S,,S,R,S,,S,S,R,>64,4,>64,0.25,4,0.125,0.0625,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D35.fna,True
+D36,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,4,2,4,0.03,1,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D36.fna,True
+D38,Escherichia coli,S,S,S,S,S,,S,R,S,,S,S,R,>64,2,>64,0.0625,2,0.0625,<0.03,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D38.fna,True
+D39,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,4,4,4,0.25,2,0.008,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D39.fna,True
+D41,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,4,>64,0.125,2,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D41.fna,True
+D42,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,4,4,4,0.0625,2,0.008,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D42.fna,True
+D43,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,4,>64,0.0625,4,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D43.fna,True
+D46,Escherichia coli,R,S,R,R,R,,S,S,S,,S,S,R,64,4,64,0.5,>64,0.008,0.0625,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D46.fna,True
+D47,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,2,>64,0.125,4,0.008,0.0625,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D47.fna,True
+D48,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,R,>64,2,>64,0.0625,1,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D48.fna,True
+D49,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,2,>64,0.125,2,0.008,0.25,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D49.fna,True
+D50,Escherichia coli,R,S,R,R,R,,S,S,S,S,S,S,R,>64,4,>64,0.5,2,0.008,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D50.fna,True
+D51,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,4,>64,0.125,4,0.008,0.0625,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D51.fna,True
+D55,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,16,>64,0.125,2,0.008,0.0625,8,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D55.fna,True
+D56,Escherichia coli,R,S,R,R,R,,S,S,S,,S,S,R,>64,2,>64,8,2,0.008,0.125,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D56.fna,True
+D57,Escherichia coli,S,S,S,S,S,,I,S,S,,S,S,R,>64,4,>64,0.125,4,0.25,<0.03,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D57.fna,True
+D58,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,2,>64,0.125,2,0.008,0.0625,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D58.fna,True
+D62,Escherichia coli,S,S,S,S,S,,S,S,S,S,S,S,S,8,4,8,0.0625,2,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D62.fna,True
+D63,Escherichia coli,R,S,S,S,S,,R,R,S,,S,S,R,>64,16,>64,0.25,2,>4,1,64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D63.fna,True
+D64,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,4,2,4,0.125,2,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D64.fna,True
+D65,Escherichia coli (ESBL+),R,S,R,R,S,,R,S,S,,S,S,R,>64,8,>64,32,4,>4,32,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D65.fna,True
+D66,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,4,>64,0.25,2,0.008,0.125,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D66.fna,True
+D67,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,>64,4,>64,0.25,4,0.008,0.125,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D67.fna,True
+D69,Escherichia coli (ESBL+),R,I,R,R,R,,R,R,S,S,S,S,R,>64,16,>64,64,2,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D69.fna,True
+D71,Escherichia coli (ESBL+),S,S,R,R,S,,S,S,S,,S,S,R,>64,4,>64,32,2,0.125,32,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D71.fna,True
+D73,Escherichia coli (ESBL+),R,S,R,R,S,,R,S,S,,S,S,R,>64,8,>64,64,8,>4,>64,8,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D73.fna,True
+D75,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,I,R,R,>64,2,>64,64,4,0.0625,>64,0.5,4,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D75.fna,True
+D77,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,R,R,R,>64,16,>64,>64,>64,0.125,4,32,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D77.fna,True
+D78,Escherichia coli,R,S,S,S,S,,R,R,S,,S,S,R,>64,4,>64,8,2,>4,0.0625,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D78.fna,True
+D79,Escherichia coli,R,S,S,S,S,,S,S,S,S,S,S,R,>64,2,>64,0.25,2,0.008,<0.03,0.5,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D79.fna,True
+D80,Escherichia coli,S,S,R,R,S,,R,S,S,,S,S,R,>64,4,>64,4,4,>4,4,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D80.fna,True
+D81,Escherichia coli (ESBL+),R,S,R,R,S,,R,S,S,,S,S,R,>64,8,>64,16,2,>4,16,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\D81.fna,True
+E1,Escherichia coli,R,S,S,S,S,,S,R,S,,S,S,R,>64,2,>64,0.125,2,0.125,<0.03,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E1.fna,True
+E3,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,,R,,R,>64,4,>64,0.125,32,0.125,0.125,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E3.fna,True
+E4,Escherichia coli,R,S,R,S,R,,S,S,S,,S,S,R,>64,4,>64,0.25,2,0.008,0.0625,2,4,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E4.fna,True
+E5,Escherichia coli (ESBL+),S,,R,R,S,S,R,S,,S,S,S,R,>64,2,>64,32,2,>4,64,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E5.fna,True
+E6,Escherichia coli (ESBL+),R,,R,R,S,S,R,R,,S,S,S,R,>64,16,>64,32,2,>4,>64,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E6.fna,True
+E7,Escherichia coli (ESBL+),R,,R,R,S,S,R,R,S,S,S,S,R,>64,16,>64,64,4,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E7.fna,True
+E8,Escherichia coli (ESBL+),R,,R,R,S,S,S,S,S,S,S,S,R,>64,4,>64,2,4,0.008,32,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E8.fna,True
+E9,Escherichia coli,S,S,S,S,S,S,S,S,,S,S,S,S,8,8,8,0.25,2,0.008,<0.03,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E9.fna,True
+E10,Escherichia coli (ESBL+),R,,R,R,S,S,R,S,,S,S,S,R,>64,4,>64,0.5,1,0.25,4,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E10.fna,True
+E11,Escherichia coli,R,,R,R,R,S,S,S,,S,S,S,R,>64,2,>64,0.5,2,0.008,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E11.fna,True
+E12,Escherichia coli (ESBL+),R,,R,R,S,S,R,R,S,S,S,S,R,>64,8,>64,16,2,>4,16,64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E12.fna,True
+E13,Escherichia coli,S,,S,S,S,S,S,S,,S,S,S,S,4,,8,0.125,,,<0.03,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E13.fna,True
+E15,Escherichia coli,R,S,S,S,S,S,R,R,,S,S,S,R,>64,2,>64,0.125,4,0.5,0.0625,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E15.fna,True
+E16,Escherichia coli,R,,R,R,S,S,R,S,,S,S,S,R,>64,8,>64,16,2,>4,16,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E16.fna,True
+E17,Escherichia coli,S,,S,S,S,S,R,R,,S,S,S,R,,2,>64,0.125,1,>4,<0.03,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E17.fna,True
+E18,Escherichia coli (ESBL+),S,,R,R,S,S,R,S,,S,S,S,R,>64,2,>64,32,2,>4,>64,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E18.fna,True
+E19,Escherichia coli (ESBL+),S,,R,R,S,S,R,S,,S,S,S,R,16,4,8,0.25,4,>4,0.0625,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E19.fna,True
+E20,Escherichia coli,R,,S,S,S,S,S,S,,S,S,S,R,>64,2,>64,0.25,>64,0.008,0.25,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E20.fna,True
+E21,Escherichia coli,S,,S,S,S,S,S,S,,S,S,S,R,>64,2,>64,0.0625,2,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E21.fna,True
+E22,Escherichia coli,S,,R,S,S,S,R,S,,S,S,S,R,>64,4,>64,0.25,2,0.25,0.0625,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E22.fna,True
+E24,Escherichia coli,R,,S,S,S,S,S,S,,S,S,S,R,>64,2,>64,0.125,2,0.008,0.125,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E24.fna,True
+E25,Escherichia coli,R,,R,S,S,S,S,S,,S,S,S,R,64,2,64,0.5,2,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E25.fna,True
+E29,Escherichia coli,R,,R,R,S,S,R,S,,S,S,S,R,>64,4,>64,32,4,>4,8,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E29.fna,True
+E30,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,>64,2,>64,0.25,2,>4,0.0625,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E30.fna,True
+E31,Escherichia coli,R,S,R,R,R,,S,S,,S,S,S,R,64,4,64,0.5,2,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E31.fna,True
+E33,Escherichia coli (ESBL+),R,I,R,R,S,S,R,R,S,S,S,R,R,>64,4,>64,64,4,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E33.fna,True
+E34,Escherichia coli,R,S,S,S,S,,S,R,,S,S,S,R,>64,2,>64,0.25,2,0.125,0.0625,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E34.fna,True
+E39,Escherichia coli,S,S,S,S,S,S,R,R,S,S,S,S,R,>64,2,>64,0.125,2,>4,<0.03,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E39.fna,True
+E40,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,8,0.125,2,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E40.fna,True
+E41,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,2,>64,0.125,2,0.008,0.0625,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E41.fna,True
+E42,Escherichia coli,R,S,R,S,R,,R,S,,S,S,S,R,>64,2,>64,0.25,4,>4,0.0625,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E42.fna,True
+E43,Escherichia coli (ESBL+),R,S,R,R,S,,S,S,,S,S,S,R,>64,,>64,64,,,>64,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E43.fna,True
+E44,Escherichia coli,R,,S,S,S,,R,S,,S,S,S,R,>64,4,>64,0.25,>64,>4,4,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E44.fna,True
+E46,Escherichia coli (ESBL+),S,S,R,R,S,,S,S,,S,S,S,R,>64,<0.03,>64,2,<0.03,0.008,2,<0.125,<0.004,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E46.fna,True
+E47,Escherichia coli,R,S,S,S,S,,R,S,,S,S,S,R,>64,4,>64,0.25,4,>4,0.0625,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E47.fna,True
+E49,Escherichia coli (ESBL+),R,I,R,R,S,S,R,R,S,S,S,S,R,>64,4,>64,64,4,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E49.fna,True
+E50,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.25,2,0.008,<0.03,1,0.015,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E50.fna,True
+E51,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,S,S,R,R,>64,2,>64,0.5,>64,0.25,4,2,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E51.fna,True
+E52,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,>64,0.125,2,0.008,0.0625,4,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E52.fna,True
+E53,Escherichia coli,R,S,S,S,R,,S,S,,S,S,S,R,>64,2,>64,0.0625,2,0.015,<0.03,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E53.fna,True
+E54,Escherichia coli,R,S,R,S,S,,R,S,,S,S,S,R,>64,4,>64,0.25,8,1,0.125,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E54.fna,True
+E55,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,2,>64,0.0625,2,0.008,<0.03,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E55.fna,True
+E56,Escherichia coli (ESBL+),R,R,R,R,S,S,R,R,S,S,S,S,R,>64,8,>64,64,4,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E56.fna,True
+E57,Escherichia coli (ESBL+),S,R,R,R,S,S,S,S,S,S,S,S,R,>64,2,>64,32,4,0.25,32,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E57.fna,True
+E59,Escherichia coli,S,S,S,S,S,,S,R,S,,S,S,R,>64,2,>64,0.125,2,0.008,<0.03,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E59.fna,True
+E61,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,>64,4,>64,16,4,>4,64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E61.fna,True
+E62,Escherichia coli,S,,S,S,S,S,S,R,,S,S,S,R,>64,4,>64,0.0625,2,0.008,<0.03,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E62.fna,True
+E63,Escherichia coli (ESBL+),R,,S,R,S,S,R,S,,S,S,S,R,>64,8,>64,1,2,>4,2,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E63.fna,True
+E64,Escherichia coli,R,S,S,S,S,S,R,R,,S,S,S,R,>64,4,>64,0.25,2,>4,0.125,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E64.fna,True
+E65,Escherichia coli,S,,S,S,S,S,R,R,,S,S,S,R,>64,4,>64,0.5,8,0.25,0.125,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E65.fna,True
+E66,Escherichia coli,R,,S,S,S,S,R,R,,S,S,S,R,>64,4,>64,0.125,2,>4,0.125,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E66.fna,True
+E67,Escherichia coli,R,,S,S,S,S,S,S,,S,S,S,R,>64,4,>64,2,2,0.008,0.5,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E67.fna,True
+E68,Escherichia coli (ESBL+),R,,R,R,S,S,S,S,,S,S,S,R,>64,2,>64,64,4,0.25,32,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E68.fna,True
+E69,Escherichia coli,R,,R,R,R,S,S,S,,S,S,S,R,>64,2,>64,2,>64,0.0625,<0.03,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E69.fna,True
+E70,Escherichia coli,R,,S,S,S,S,R,S,,S,S,S,R,>64,8,>64,0.125,2,>4,0.5,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E70.fna,True
+E71,Escherichia coli (ESBL+),S,,R,R,R,S,R,R,S,S,S,I,R,,,,,<0.03,,,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E71.fna,True
+E72,Escherichia coli (ESBL+),S,,R,R,S,S,R,S,,S,S,S,R,>64,4,>64,2,2,>4,4,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E72.fna,True
+E73,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,>64,0.25,16,0.008,0.25,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E73.fna,True
+E74,Escherichia coli,R,S,R,R,R,,S,S,,S,S,S,R,>64,4,>64,16,4,0.125,0.125,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E74.fna,True
+E75,Escherichia coli,R,S,R,R,R,,S,S,,S,S,S,R,>64,4,>64,2,32,0.125,0.125,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E75.fna,True
+E76,Escherichia coli (ESBL+),R,S,R,R,S,,S,S,,S,S,S,R,>64,4,>64,32,4,0.008,32,2,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E76.fna,True
+E77,Escherichia coli (ESBL+),R,S,R,R,S,,R,S,,S,S,S,R,>64,16,>64,>64,2,>4,>64,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E77.fna,True
+E78,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,,S,S,S,R,>64,8,>64,2,2,>4,2,4,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E78.fna,True
+E79,Escherichia coli (ESBL+),S,S,R,R,S,,R,S,,S,S,S,R,>64,4,>64,8,4,>4,2,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E79.fna,True
+E80,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,>64,0.125,2,0.125,0.125,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E80.fna,True
+E81,Escherichia coli (ESBL+),I,S,R,R,S,,R,R,,S,S,S,R,>64,4,>64,32,2,>4,32,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E81.fna,True
+F1,Escherichia coli,R,I,R,R,S,,S,S,,S,S,S,R,64,1,>64,0.5,2,0.008,0.5,0.5,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F1.fna,True
+F2,Escherichia coli (ESBL+),R,I,R,R,S,,S,S,,S,S,S,R,>64,2,>64,4,2,0.008,32,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F2.fna,True
+F3,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.25,2,0.008,0.125,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F3.fna,True
+F4,Escherichia coli (ESBL+),R,I,R,R,S,S,R,R,S,S,S,S,R,>64,16,>64,64,2,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F4.fna,True
+F5,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,,S,S,S,R,>64,2,>64,64,2,>4,>64,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F5.fna,True
+F6,Escherichia coli (ESBL+),R,I,R,R,S,S,R,R,,S,S,S,R,>64,8,>64,32,2,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F6.fna,True
+F7,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,4,0.125,4,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F7.fna,True
+F8,Escherichia coli,R,S,R,R,S,,S,S,,S,S,S,R,>64,2,>64,0.25,2,0.008,<0.03,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F8.fna,True
+F9,Escherichia coli (ESBL+),R,S,R,R,S,,R,S,,S,S,S,R,>64,16,>64,32,2,>4,32,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F9.fna,True
+F10,Escherichia coli,R,I,S,S,S,,R,R,,S,S,S,R,>64,4,>64,0.5,>64,>4,2,64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F10.fna,True
+F11,Escherichia coli (ESBL+),R,I,R,R,S,,R,S,,S,S,S,R,>64,2,>64,32,2,>4,>64,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F11.fna,True
+F13,Escherichia coli,R,I,S,S,S,,S,S,,S,S,S,R,>64,8,>64,8,2,0.008,1,4,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F13.fna,True
+F14,Escherichia coli (ESBL+),R,S,R,R,S,,R,R,,S,S,S,R,>64,8,>64,32,2,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F14.fna,True
+F15,Escherichia coli (ESBL+),R,S,R,R,S,,R,S,,S,S,S,R,>64,8,>64,32,2,>4,32,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F15.fna,True
+F18,Escherichia coli,R,R,R,R,R,,S,S,,S,S,S,R,>64,2,>64,4,2,0.008,0.125,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F18.fna,True
+F19,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,R,>64,4,>64,0.0625,8,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F19.fna,True
+F20,Escherichia coli (ESBL+),R,S,R,R,R,,R,R,,S,S,S,R,>64,8,>64,>64,8,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F20.fna,True
+F23,Escherichia coli,R,S,R,R,S,,S,S,,S,S,S,R,4,4,4,0.125,2,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F23.fna,True
+F25,Escherichia coli,R,R,R,R,R,,S,S,,S,S,S,R,>64,2,>64,2,4,0.008,0.0625,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F25.fna,True
+F27,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,4,0.125,2,0.5,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F27.fna,True
+F28,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,4,4,0.0625,2,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F28.fna,True
+F32,Escherichia coli (ESBL+),S,S,R,R,S,,R,R,,S,S,S,R,>64,8,>64,32,2,>4,64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F32.fna,True
+F34,Escherichia coli,R,S,S,S,S,,S,R,,S,S,S,R,>64,2,>64,0.125,8,0.125,0.5,16,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F34.fna,True
+F35,Escherichia coli,S,S,R,R,S,,S,S,,S,S,S,R,>64,2,>64,2,8,0.125,8,1,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F35.fna,True
+F36,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,R,R,R,4,4,4,0.25,2,0.008,<0.03,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F36.fna,True
+F37,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,R,R,R,,2,>64,0.5,2,0.008,4,8,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F37.fna,True
+F38,Escherichia coli (CARB+),R,R,S,S,R,,S,S,S,S,R,R,R,,1,>64,0.25,1,0.008,0.25,0.25,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F38.fna,True
+F39,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,R,R,,4,>64,0.125,2,0.008,0.125,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F39.fna,True
+F40,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,,R,,4,>64,0.125,2,0.008,0.25,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F40.fna,True
+F41,Escherichia coli,,S,,,S,,R,S,S,,S,S,,,4,8,0.25,2,>4,0.0625,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F41.fna,True
+F42,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,R,R,R,,1,64,0.03,1,0.008,0.125,0.25,0.008,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F42.fna,True
+F44,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,R,R,,1,>64,0.5,4,0.008,0.25,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F44.fna,True
+F45,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,R,R,R,,0.5,>64,1,2,0.008,1,0.25,2,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F45.fna,True
+F46,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,I,R,,2,>64,0.5,4,0.008,0.5,2,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F46.fna,True
+F47,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,R,R,,2,>64,0.25,4,0.008,0.125,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F47.fna,True
+F48,Escherichia coli (CARB+),R,I,S,S,S,,S,S,S,S,R,I,R,,2,>64,0.125,2,0.008,0.0625,2,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F48.fna,True
+F49,Escherichia coli (CARB+),R,,R,R,S,,S,S,S,S,R,R,R,,1,64,0.5,2,0.25,1,4,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F49.fna,True
+F50,Escherichia coli (CARB+),R,R,R,S,S,,S,S,S,S,R,I,R,,,>64,0.125,,,0.125,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F50.fna,True
+F51,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,R,I,R,,2,>64,0.25,4,0.008,0.25,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F51.fna,True
+F52,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,I,R,,1,>64,0.0625,2,0.008,0.0625,1,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F52.fna,True
+F53,Escherichia coli (CARB+),R,R,R,R,R,,R,R,S,S,R,R,R,,32,>64,>64,4,>4,>64,>64,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F53.fna,True
+F54,Escherichia coli,,,,,,,,,,,,,,,2,>64,0.25,2,>4,0.0625,>64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F54.fna,True
+F55,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,,R,I,R,,0.25,>64,0.25,2,0.25,0.125,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F55.fna,True
+F56,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,I,R,,2,>64,0.25,8,0.015,0.25,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F56.fna,True
+F57,Escherichia coli (CARB+),R,R,S,S,,,S,S,,,R,,R,,2,>64,0.125,2,0.008,0.125,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F57.fna,True
+F58,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,I,R,,1,>64,0.125,2,0.008,0.125,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F58.fna,True
+F59,Escherichia coli (CARB+),R,R,R,R,R,,,S,S,I,R,I,R,,4,>64,16,64,>4,8,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F59.fna,True
+F60,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,I,R,,2,>64,0.125,2,0.008,0.125,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F60.fna,True
+F61,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,I,R,,2,>64,0.25,2,0.008,0.125,1,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F61.fna,True
+F62,Escherichia coli (CARB+),R,R,R,S,R,,R,S,S,S,R,I,R,,2,>64,0.25,4,0.25,0.125,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F62.fna,True
+F63,Escherichia coli (CARB+),R,R,S,S,R,,S,S,S,I,R,I,R,,1,>64,0.125,1,0.008,0.125,0.5,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F63.fna,True
+F64,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,I,R,R,R,,2,>64,0.125,2,0.008,0.125,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F64.fna,True
+F65,Escherichia coli (CARB+),R,R,S,R,S,,I,S,S,I,R,R,R,,2,>64,16,2,0.25,0.5,8,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F65.fna,True
+F66,Escherichia coli (CARB+),R,R,R,S,R,,R,S,S,S,R,I,R,,4,>64,1,8,2,0.5,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F66.fna,True
+F67,Escherichia coli (CARB+),R,R,R,R,R,,R,S,S,S,R,R,R,,2,>64,,2,>4,0.25,2,2,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F67.fna,True
+F68,Escherichia coli (CARB+),R,R,S,S,R,,R,S,S,S,R,I,R,,1,>64,0.25,>64,4,0.125,1,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F68.fna,True
+F69,Escherichia coli (CARB+),R,R,R,R,R,,R,R,R,S,R,R,R,,32,>64,>64,2,>4,>64,>64,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F69.fna,True
+F70,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,R,R,R,,2,>64,0.125,2,0.008,0.5,2,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F70.fna,True
+F71,Escherichia coli (CARB+),R,R,R,S,R,,S,S,S,I,R,R,R,,2,>64,0.125,2,0.008,0.25,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F71.fna,True
+F72,Escherichia coli (CARB+),R,,S,S,S,,S,S,S,S,R,R,R,,2,>64,0.25,4,0.008,0.25,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F72.fna,True
+F73,Escherichia coli (CARB+),R,,S,S,S,,S,S,S,S,R,R,R,,2,>64,0.125,2,0.008,0.125,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F73.fna,True
+F74,Escherichia coli,R,S,S,S,S,,S,R,S,,S,S,R,,2,>64,0.25,2,0.008,0.0625,64,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F74.fna,True
+F76,Escherichia coli (CARB+),R,,S,S,S,,R,S,S,S,,R,R,,2,>64,0.25,2,0.25,0.25,4,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F76.fna,True
+F78,Escherichia coli (CARB+),R,,R,R,S,S,R,S,S,S,,R,R,,2,>64,16,2,>4,8,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F78.fna,True
+F79,Escherichia coli (CARB+),R,,S,S,S,S,S,S,S,S,,R,R,,1,>64,0.125,2,0.008,0.25,1,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F79.fna,True
+F81,Escherichia coli (CARB+),R,,R,R,R,S,R,S,S,R,,R,R,,2,>64,8,8,>4,0.25,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F81.fna,True
+G1,Escherichia coli (CARB+),R,,S,S,S,S,S,S,S,S,,R,R,,2,>64,0.125,2,0.008,0.125,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G1.fna,True
+G2,Escherichia coli (CARB+),R,,S,S,S,S,S,S,S,S,,R,R,,2,>64,0.5,2,0.008,0.25,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G2.fna,True
+G3,Escherichia coli (CARB+),R,,S,S,S,S,S,S,S,S,,R,R,,1,>64,,4,,1,0.25,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G3.fna,True
+G4,Escherichia coli (CARB+),R,,R,R,R,S,,S,S,S,,R,R,,2,>64,16,8,0.25,0.5,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G4.fna,True
+G5,Escherichia coli (CARB+),R,,S,S,S,S,,S,S,S,,R,R,,2,>64,2,4,0.25,0.25,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G5.fna,True
+G6,Escherichia coli (CARB+),R,,R,R,R,,R,R,S,S,,R,R,,2,>64,>64,8,,>64,>64,4,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G6.fna,True
+G7,Escherichia coli (CARB+),R,,S,S,S,S,R,S,S,S,,R,R,,1,>64,0.125,8,0.25,0.125,0.25,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G7.fna,True
+G8,Escherichia coli (CARB+),R,,R,S,R,S,S,S,S,S,,R,R,,8,>64,1,2,0.03,0.0625,4,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G8.fna,True
+G9,Escherichia coli (CARB+),R,,S,S,S,S,S,S,S,S,,R,R,,2,>64,0.25,64,0.25,0.25,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G9.fna,True
+G10,Escherichia coli (CARB+),R,R,R,R,S,,R,R,S,S,R,R,R,,0.5,>64,32,4,,16,>64,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G10.fna,True
+G12,Escherichia coli (CARB+),R,I,S,S,S,S,S,S,,S,,R,R,,2,>64,0.125,2,0.008,0.25,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G12.fna,True
+G13,Escherichia coli (CARB+),R,R,R,R,R,S,R,S,S,S,,R,R,,4,>64,1,16,>4,0.5,2,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G13.fna,True
+G14,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,S,,R,R,,2,>64,1,4,0.008,4,8,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G14.fna,True
+G18,Escherichia coli (CARB+),R,R,R,R,R,,S,I,S,S,,R,R,,2,>64,0.5,4,0.008,2,8,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G18.fna,True
+G19,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,,2,>64,0.5,4,0.008,0.25,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G19.fna,True
+G21,Escherichia coli (CARB+),R,R,R,R,R,S,R,R,S,S,,R,R,,4,>64,64,16,>4,2,>64,2,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G21.fna,True
+G22,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,1,>64,0.125,4,0.008,0.125,0.5,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G22.fna,True
+G24,Escherichia coli (CARB+),R,R,R,R,R,S,R,R,S,S,R,R,R,,2,>64,0.5,>64,>4,8,32,8,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G24.fna,True
+G25,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,,R,R,,2,>64,8,2,0.008,16,2,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G25.fna,True
+G26,Escherichia coli (CARB+),R,R,R,R,S,,S,S,S,S,R,R,R,,1,>64,2,8,0.0625,4,0.5,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G26.fna,True
+G27,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,,R,R,,1,>64,>64,8,0.008,64,0.5,16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G27.fna,True
+G28,Escherichia coli (CARB+),R,R,R,R,S,,S,S,S,S,R,R,R,,2,>64,0.25,4,0.008,0.5,0.5,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G28.fna,True
+G29,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,,R,R,,2,>64,0.25,64,0.008,0.125,2,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G29.fna,True
+G30,Escherichia coli (CARB+),R,R,R,R,,S,R,S,S,,,,R,,8,>64,64,4,>4,64,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G30.fna,True
+G31,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,,R,R,,2,>64,0.125,2,0.008,0.25,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G31.fna,True
+G32,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,,R,R,,2,>64,0.125,2,0.008,0.125,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G32.fna,True
+G33,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,R,R,,0.25,>64,0.125,,,0.125,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G33.fna,True
+G34,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,,R,R,,2,>64,0.5,1,0.008,1,2,2,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G34.fna,True
+G35,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,,R,R,,,>64,0.125,,,0.25,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G35.fna,True
+G36,Escherichia coli (CARB+),R,R,R,S,R,,I,S,S,S,,R,R,,1,>64,1,16,0.25,0.25,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G36.fna,True
+G37,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,,2,>64,0.5,4,0.25,0.125,2,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G37.fna,True
+G38,Escherichia coli (CARB+),R,S,R,R,S,,S,S,S,S,,I,R,,2,>64,4,2,0.008,0.5,2,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G38.fna,True
+G39,Escherichia coli (CARB+),R,R,R,S,S,,S,S,S,S,R,R,R,,2,>64,0.25,1,0.008,0.25,0.25,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G39.fna,True
+G40,Escherichia coli (CARB+),R,R,R,R,S,,S,S,S,S,,R,R,,2,>64,32,4,0.008,64,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G40.fna,True
+G41,Escherichia coli (CARB+),R,R,R,S,R,,S,S,S,S,R,R,R,,4,>64,0.5,2,0.008,0.5,2,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G41.fna,True
+G42,Escherichia coli (CARB+),R,R,R,R,R,,R,S,S,S,R,R,R,,4,>64,>64,8,>4,>64,2,>16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G42.fna,True
+G44,Escherichia coli (CARB+),R,R,R,R,R,,R,R,R,S,R,R,R,,>64,>64,>64,4,>4,>64,>64,>16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G44.fna,True
+G45,Escherichia coli (CARB+),R,R,,S,S,,,S,S,S,,I,R,,2,>64,0.0625,2,0.008,0.125,1,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G45.fna,True
+G47,Escherichia coli (CARB+),R,R,R,R,R,,S,S,S,S,R,R,R,,2,>64,0.5,4,0.015,1,2,4,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G47.fna,True
+G48,Escherichia coli (CARB+),R,R,R,R,R,,R,R,R,S,R,R,R,,>64,64,1,>64,>4,1,>64,>16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G48.fna,True
+G49,Escherichia coli (CARB+),R,S,S,S,R,,S,S,S,R,R,R,R,,,,,,,,,>16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G49.fna,True
+G50,Escherichia coli (CARB+),R,R,R,S,S,,S,S,S,S,R,R,R,,2,>64,0.25,4,0.25,0.25,1,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G50.fna,True
+G52,Escherichia coli (CARB+),R,R,R,R,S,,R,S,S,S,,R,R,,1,,2,4,>4,8,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G52.fna,True
+G53,Escherichia coli (CARB+),R,R,R,R,R,,I,S,S,S,R,R,R,,0.5,,>64,1,0.125,>64,,16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G53.fna,True
+G55,Escherichia coli,S,S,S,S,S,,S,R,S,S,S,S,R,,4,>64,>64,4,0.25,>64,>64,16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G55.fna,True
+G56,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,,2,>64,0.25,4,0.008,0.25,2,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G56.fna,True
+G57,Escherichia coli (CARB+),R,S,S,S,S,S,S,S,S,S,,S,R,,0.5,>64,0.125,4,0.008,0.0625,0.25,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G57.fna,True
+G58,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,,R,R,,4,>64,0.25,4,0.25,0.25,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G58.fna,True
+G59,Escherichia coli (CARB+),R,I,S,S,S,S,S,S,S,S,R,R,R,,2,>64,0.25,4,0.25,0.125,2,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G59.fna,True
+G60,Escherichia coli (CARB+),R,R,R,R,R,S,R,S,S,S,,,R,,2,,>64,2,>4,>64,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G60.fna,True
+G61,Escherichia coli (CARB+),R,R,R,R,R,S,R,S,S,S,,,R,,2,,>64,2,>4,>64,,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G61.fna,True
+G62,Escherichia coli (CARB+),R,R,S,R,S,S,R,S,S,S,R,R,R,,2,,0.5,>64,>4,2,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G62.fna,True
+G63,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,R,R,,2,,0.25,1,0.5,0.125,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G63.fna,True
+G64,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,2,2,0.008,0.25,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G64.fna,True
+G65,Escherichia coli (CARB+),R,R,R,R,S,,R,S,S,S,R,R,R,,4,,8,2,>4,16,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G65.fna,True
+G66,Escherichia coli (CARB+),R,R,S,S,S,,S,R,S,S,R,R,R,,2,,0.25,1,0.008,0.25,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G66.fna,True
+G67,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,1,,0.5,2,>4,<0.03,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G67.fna,True
+G68,Escherichia coli (CARB+),R,R,S,S,S,S,R,R,S,S,R,R,R,,1,,,1,>4,,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G68.fna,True
+G69,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,0.25,1,0.008,0.5,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G69.fna,True
+G70,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,0.25,2,0.008,0.25,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G70.fna,True
+G71,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,R,R,,1,,2,2,0.008,0.25,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G71.fna,True
+G72,Escherichia coli (CARB+),R,R,R,R,R,,R,S,S,S,R,R,R,,4,,>64,4,>4,>64,,>16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G72.fna,True
+G73,Escherichia coli (CARB+),S,S,R,R,S,S,R,S,S,S,,,R,,2,,0.25,1,>4,<0.03,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G73.fna,True
+G74,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,,R,R,R,,1,,2,1,0.008,0.25,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G74.fna,True
+G75,Escherichia coli (CARB+),R,R,R,R,R,R,S,R,S,S,R,R,R,,2,,>64,>64,0.125,32,,8,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G75.fna,True
+G76,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,2,2,0.125,0.125,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G76.fna,True
+G77,Escherichia coli (CARB+),R,I,R,R,S,S,R,S,S,,R,R,R,,2,,>64,2,>4,>64,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G77.fna,True
+G78,Escherichia coli (CARB+),R,S,R,R,R,S,R,R,S,S,R,R,R,,4,,1,64,>4,16,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G78.fna,True
+G79,Escherichia coli (CARB+),R,R,S,S,S,S,R,S,S,S,R,R,R,,1,,0.25,>64,>4,0.25,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G79.fna,True
+G80,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,0.125,2,>4,0.125,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G80.fna,True
+G81,Escherichia coli (CARB+),R,R,S,R,S,S,S,R,S,S,R,R,R,,4,,0.5,2,0.015,1,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G81.fna,True
+H1,Escherichia coli (CARB+),R,R,R,R,S,S,R,R,S,S,,R,R,,4,,32,1,0.5,16,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H1.fna,True
+H2,Escherichia coli (CARB+),R,R,S,S,S,S,R,S,S,S,,R,R,,>64,,>64,4,>4,>64,,>16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H2.fna,True
+H4,Escherichia coli (CARB+),R,R,S,S,S,,S,S,S,S,R,R,R,,2,,0.25,8,0.125,0.125,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H4.fna,True
+H5,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,1,,0.25,2,0.008,0.25,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H5.fna,True
+H6,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,2,2,0.008,0.25,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H6.fna,True
+H7,Escherichia coli (CARB+),R,R,R,R,R,R,R,R,R,S,R,R,R,,>64,,>64,8,>4,>64,,>16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H7.fna,True
+H8,Escherichia coli (CARB+),R,R,R,R,R,R,R,S,I,S,R,R,R,,8,,>64,2,>4,64,,16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H8.fna,True
+H10,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,0.25,2,0.008,0.25,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H10.fna,True
+H11,Escherichia coli (CARB+),R,R,R,S,R,S,S,S,S,S,R,R,R,,4,,2,1,0.008,0.5,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H11.fna,True
+H12,Escherichia coli (CARB+),R,R,R,R,R,S,R,R,S,S,R,R,R,,4,,8,>64,>4,64,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H12.fna,True
+H13,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,0.25,2,0.008,0.25,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H13.fna,True
+H14,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,S,R,R,,2,,0.125,2,0.008,0.125,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H14.fna,True
+H15,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,,,2,,,0.25,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H15.fna,True
+H16,Escherichia coli (CARB+),R,S,R,R,R,S,R,R,S,S,,R,R,,2,,>64,64,>4,32,,2,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H16.fna,True
+H17,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,,1,,2,2,>4,0.125,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H17.fna,True
+H18,Escherichia coli (CARB+),R,R,R,R,R,S,R,S,S,R,,R,R,,2,,4,8,>4,0.25,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H18.fna,True
+H19,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,S,,R,R,,2,,4,2,0.008,4,,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H19.fna,True
+H20,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,1,,0.5,4,0.0625,0.25,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H20.fna,True
+H21,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,0.5,4,0.008,0.5,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H21.fna,True
+H22,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,,2,,2,2,0.125,0.5,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H22.fna,True
+H23,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,S,R,R,R,,2,,0.5,4,0.008,0.5,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H23.fna,True
+H24,Escherichia coli (CARB+),R,R,R,R,,S,S,I,S,S,R,,R,,2,,32,4,0.008,2,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H24.fna,True
+H25,Escherichia coli (CARB+),R,R,R,R,S,S,R,S,S,S,R,R,R,,4,,>64,4,>4,>64,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H25.fna,True
+H26,Escherichia coli (CARB+),R,R,R,R,R,R,R,S,S,R,R,R,R,,4,,>64,4,>4,>64,,>16,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H26.fna,True
+H27,Escherichia coli,R,S,,S,S,,S,R,,S,S,S,R,,2,,0.25,4,0.0625,0.0625,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H27.fna,True
+H28,Escherichia coli,R,S,,S,S,,S,R,,S,S,S,R,,2,,2,8,0.0625,0.0625,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H28.fna,True
+H29,Escherichia coli (CARB+),R,S,R,R,R,S,R,R,S,S,S,R,R,,4,,>64,>64,>4,64,,4,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H29.fna,True
+H30,Escherichia coli (CARB+),R,R,R,S,R,S,S,S,S,S,,R,R,,2,,2,2,0.008,1,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H30.fna,True
+H31,Escherichia coli (CARB+),R,R,R,R,R,R,R,R,S,S,,R,R,,,,>64,,,>64,,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H31.fna,True
+H32,Escherichia coli (CARB+),R,R,R,R,R,S,R,S,S,S,,R,R,,2,,32,>64,>4,0.5,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H32.fna,True
+H33,Escherichia coli (CARB+),R,R,S,S,R,S,S,S,S,S,R,R,R,,2,,2,4,0.008,0.0625,,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H33.fna,True
+H37,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,8,,8,4,0.125,8,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H37.fna,True
+H38,Escherichia coli (CARB+),R,R,R,R,S,S,I,S,S,S,,R,R,,2,,2,2,0.25,0.125,,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H38.fna,True
+H40,Escherichia coli,,S,,,S,,R,R,,S,S,S,,,8,,32,2,>4,16,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H40.fna,True
+H41,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,,1,,0.25,2,0.008,0.0625,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H41.fna,True
+H42,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,S,,R,R,,2,,1,4,0.0625,2,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H42.fna,True
+H43,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,S,R,R,R,,2,,2,4,0.008,0.5,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H43.fna,True
+H44,Escherichia coli,R,S,,R,S,,R,S,,S,S,S,R,,2,,16,4,1,8,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H44.fna,True
+H45,Escherichia coli (CARB+),R,R,R,S,S,S,S,S,S,S,,R,R,,0.5,,0.25,2,0.008,0.0625,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H45.fna,True
+H46,Escherichia coli (CARB+),R,R,R,S,R,S,S,S,S,S,R,R,R,,4,,1,8,0.015,0.5,,1,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H46.fna,True
+H47,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,,2,,0.25,2,0.008,0.0625,,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H47.fna,True
+H48,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,0.25,2,0.008,0.125,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H48.fna,True
+H49,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,,2,,0.25,2,0.008,0.125,,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H49.fna,True
+H52,Escherichia coli,S,S,R,R,,,R,S,,,S,,R,,4,,4,1,>4,4,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H52.fna,True
+H50,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,,4,,2,4,0.125,0.125,,0.25,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H50.fna,True
+H51,Escherichia coli,,,,,,,R,R,S,,,,,,8,,64,4,>4,64,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H51.fna,True
+H53,Escherichia coli,S,S,S,S,,,R,R,,,S,,R,,1,,2,4,>4,<0.03,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H53.fna,True
+H54,Escherichia coli,R,S,R,R,S,S,R,R,I,S,S,S,R,,8,,>64,2,>4,>64,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H54.fna,True
+H56,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,4,,0.125,4,0.008,<0.03,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H56.fna,True
+H57,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,2,,2,2,0.008,<0.03,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H57.fna,True
+H58,Escherichia coli (ESBL+),S,S,R,R,S,,R,S,,S,S,S,R,,4,,16,2,>4,32,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H58.fna,True
+H59,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,2,,2,2,0.008,<0.03,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H59.fna,True
+H60,Escherichia coli (ESBL+),R,S,R,R,S,,R,R,,S,S,S,R,,8,,32,4,>4,16,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H60.fna,True
+H61,Escherichia coli,R,S,R,R,R,,S,S,,S,S,S,R,,4,,2,2,0.008,0.125,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H61.fna,True
+H62,Escherichia coli (ESBL+),S,S,R,R,S,,R,S,,S,S,S,R,,2,,8,4,>4,8,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H62.fna,True
+H63,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,,2,,2,2,>4,0.0625,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H63.fna,True
+H64,Escherichia coli (ESBL+),S,S,R,R,S,,S,S,,S,S,S,R,,2,,>64,>64,0.0625,64,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H64.fna,True
+H65,Escherichia coli (ESBL+),I,S,R,R,S,,R,R,,S,S,S,R,,8,,32,4,>4,64,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H65.fna,True
+H67,Escherichia coli,S,S,S,S,S,,R,R,S,S,S,S,R,,4,,0.125,2,>4,<0.03,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H67.fna,True
+H68,Escherichia coli,R,S,R,R,S,,S,S,,S,S,S,R,,1,,1,2,0.008,<0.03,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H68.fna,True
+H69,Escherichia coli,R,S,S,S,S,,R,R,,,S,S,R,,8,,0.5,4,>4,0.5,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H69.fna,True
+H70,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,,4,,0.5,2,0.008,0.125,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H70.fna,True
+H71,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,2,,2,>64,0.03,<0.03,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H71.fna,True
+H72,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,,8,,32,4,>4,32,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H72.fna,True
+H73,Escherichia coli (ESBL+),S,S,R,R,S,,S,S,,S,S,S,R,,1,,4,2,0.0625,2,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H73.fna,True
+H74,Escherichia coli,S,S,S,S,S,,R,R,S,S,S,S,S,,4,,0.5,4,>4,0.125,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H74.fna,True
+H75,Escherichia coli (ESBL+),R,S,R,R,S,S,R,S,S,S,S,S,R,,8,,1,2,>4,2,,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H75.fna,True
+H76,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,,16,,0.25,2,>4,0.5,,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H76.fna,True
+H77,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,1,4,0.125,2,0.0625,<0.03,1,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H77.fna,True
+H78,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,2,8,0.125,1,0.008,<0.03,2,<0.004,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H78.fna,True
+H79,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.125,1,0.008,<0.03,1,0.008,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H79.fna,True
+H80,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,R,>64,2,>64,4,1,>4,2,1,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H80.fna,True
+H81,Escherichia coli (ESBL+),R,R,R,R,S,S,R,R,S,S,S,S,R,>64,4,>64,8,2,>4,8,>64,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\H81.fna,True
+I1,Escherichia coli,S,S,R,R,S,,R,S,,S,S,S,R,>64,2,>64,4,,4,8,,0.008,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I1.fna,True
+I2,Escherichia coli,R,S,R,R,,,R,S,S,,S,,R,,2,,,8,>4,,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I2.fna,True
+I3,Escherichia coli,S,S,R,R,S,,R,S,,S,S,S,R,>64,2,>64,16,0.0625,>4,16,2,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I3.fna,True
+I4,Escherichia coli,S,S,R,R,,,R,S,,,S,,R,>64,2,>64,64,4,>4,>64,1,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I4.fna,True
+I5,Escherichia coli,R,S,R,R,,,R,S,,,S,,R,>64,2,>64,8,32,>4,0.25,1,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I5.fna,True
+I6,Escherichia coli,S,S,S,S,,,R,S,,,S,,S,8,4,8,0.25,2,>4,<0.03,2,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I6.fna,True
+I7,Escherichia coli,,S,R,R,S,,R,,,S,S,S,R,>64,16,>64,2,1,>4,2,4,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I7.fna,True
+I8,Escherichia coli,S,S,R,S,,,R,S,S,,S,,R,>64,2,>64,0.125,1,>4,<0.03,2,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I8.fna,True
+I9,Escherichia coli,R,S,R,R,S,,S,,,S,S,S,R,>64,2,>64,1,0.0625,0.008,0.0625,1,0.008,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I9.fna,True
+I10,Escherichia coli,R,S,R,R,,,R,S,S,,S,,R,>64,2,>64,>64,>64,>4,0.25,1,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I10.fna,True
+I12,Escherichia coli,S,S,S,S,,,R,R,,,,,R,>64,4,>64,0.125,2,>4,<0.03,>64,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I12.fna,True
+I14,Escherichia coli,R,R,R,R,S,S,R,R,R,S,S,S,R,>64,,>64,16,,,64,,,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I14.fna,True
+I15,Escherichia coli,S,S,R,R,S,,S,S,,S,S,S,R,>64,2,>64,16,1,0.0625,16,1,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I15.fna,True
+I16,Escherichia coli,R,S,R,R,S,,R,R,,S,S,S,R,>64,8,>64,>64,2,>4,>64,>64,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I16.fna,True
+I17,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,1,4,0.125,1,0.008,<0.03,0.5,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I17.fna,True
+I18,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,2,8,0.125,0.0625,,<0.03,1,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I18.fna,True
+I19,Escherichia coli,R,S,R,R,R,,S,S,,S,S,S,R,>64,2,>64,4,0.5,0.03,,2,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I19.fna,True
+I20,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.125,<0.03,0.008,<0.03,1,0.008,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I20.fna,True
+I21,Escherichia coli,R,S,R,R,R,S,S,S,S,S,S,S,R,>64,2,>64,0.5,2,0.008,<0.03,1,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I21.fna,True
+I23,Escherichia coli (ESBL+),R,R,R,R,S,S,S,S,S,S,S,S,R,>64,2,>64,2,1,>4,64,0.5,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I23.fna,True
+I24,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,4,2,4,0.125,2,0.008,<0.03,1,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I24.fna,True
+I26,Escherichia coli,S,S,S,S,S,S,S,S,S,S,S,S,R,>64,2,>64,0.125,2,0.008,<0.03,1,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I26.fna,True
+I27,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.125,1,0.008,<0.03,1,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I27.fna,True
+I28,Escherichia coli,R,S,S,S,S,S,R,R,R,S,S,S,R,,8,2,,,4,,2,,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I28.fna,True
+I29,Escherichia coli (ESBL+),R,S,R,R,S,S,I,S,S,S,S,S,R,4,1,4,0.125,4,0.008,<0.03,0.5,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I29.fna,True
+I34,Escherichia coli (ESBL+),S,R,R,R,R,S,R,S,S,S,S,S,R,>64,4,>64,8,8,>4,4,2,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I34.fna,True
+I35,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.125,2,0.008,<0.03,1,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I35.fna,True
+I36,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,2,4,0.125,1,0.008,<0.03,2,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I36.fna,True
+I39,Escherichia coli (ESBL+),R,R,R,R,R,S,R,S,S,S,S,S,R,>64,16,>64,8,4,>4,4,4,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I39.fna,True
+I40,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,4,0.125,1,0.008,<0.03,2,0.015,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I40.fna,True
+I42,Escherichia coli,R,S,R,S,S,,S,R,,S,S,S,R,>64,16,>64,0.125,32,,0.5,4,<0.004,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I42.fna,True
+I43,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,R,>64,4,>64,64,2,>4,>64,2,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I43.fna,True
+I44,Escherichia coli,R,I,R,R,R,,S,S,,S,S,S,R,>64,2,>64,1,2,0.008,<0.03,1,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I44.fna,True
+I45,Escherichia coli,S,S,S,S,S,,S,R,S,S,S,S,R,>64,2,>64,0.25,2,0.008,0.125,>64,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I45.fna,True
+I46,Escherichia coli,R,S,R,R,R,S,S,S,S,S,S,S,R,>64,2,>64,1,4,0.008,<0.03,2,0.015,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I46.fna,True
+I47,Escherichia coli,R,S,R,R,R,S,S,S,S,S,S,S,R,>64,2,>64,4,2,0.008,0.0625,1,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I47.fna,True
+I48,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,S,8,4,8,0.25,2,>4,<0.03,>64,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I48.fna,True
+I52,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,>64,2,>64,0.125,4,0.008,0.125,2,0.25,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I52.fna,True
+I53,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,>64,2,>64,0.125,4,0.008,0.125,1,0.25,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I53.fna,True
+I54,Escherichia coli (CARB+),R,R,R,R,R,S,R,R,S,S,,R,R,>64,2,>64,>64,4,>4,8,>64,0.25,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I54.fna,True
+I55,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,>64,2,>64,0.125,2,0.008,0.125,1,0.25,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I55.fna,True
+I56,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,>64,2,>64,0.125,2,0.008,0.125,2,0.25,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I56.fna,True
+I57,Escherichia coli,R,S,,R,S,S,S,R,S,S,S,S,R,>64,2,>64,64,>64,0.125,16,>64,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I57.fna,True
+I58,Escherichia coli (CARB+),R,S,R,R,S,S,S,S,S,S,,S,R,>64,1,>64,0.25,4,0.008,<0.03,1,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I58.fna,True
+I59,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,R,,R,R,>64,2,>64,0.125,4,0.008,0.125,1,0.25,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I59.fna,True
+I60,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,>64,2,>64,0.125,2,0.008,0.125,2,0.125,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I60.fna,True
+I63,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,>64,4,>64,0.125,2,0.008,0.125,1,0.25,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I63.fna,True
+I64,Escherichia coli (CARB+),R,R,R,S,S,S,R,S,S,R,R,R,R,>64,2,>64,0.5,4,>4,0.5,16,0.5,1,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I64.fna,True
+I65,Escherichia coli (CARB+),R,R,R,R,R,R,R,S,S,S,R,R,R,>64,2,>64,>64,2,>4,>64,1,>16,0.5,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I65.fna,True
+I66,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,>64,0.25,>64,0.125,2,0.008,<0.03,0.25,0.5,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I66.fna,True
+I67,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,>64,2,>64,0.125,2,0.008,0.125,2,0.125,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I67.fna,True
+I68,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,S,R,R,R,>64,2,>64,0.125,2,0.008,0.0625,1,0.125,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I68.fna,True
+I69,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,>64,2,>64,0.25,2,0.008,0.25,2,0.5,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I69.fna,True
+I70,Escherichia coli (CARB+),R,R,R,R,S,S,I,R,S,S,R,R,R,>64,8,>64,16,4,0.015,16,>64,4,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I70.fna,True
+I71,Escherichia coli (CARB+),R,R,R,R,R,R,R,S,S,R,R,R,R,>64,2,>64,>64,2,>4,>64,1,16,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I71.fna,True
+I72,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,S,R,R,R,>64,2,>64,0.25,4,0.015,0.25,2,0.25,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I72.fna,True
+I73,Escherichia coli (CARB+),R,R,R,R,R,S,S,S,S,S,R,R,R,>64,2,>64,8,2,0.008,>64,1,0.25,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I73.fna,True
+I74,Escherichia coli (CARB+),R,R,R,R,S,S,R,R,S,S,R,R,R,>64,2,>64,32,4,0.125,16,>64,0.125,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I74.fna,True
+I75,Escherichia coli,,S,,,S,,R,R,S,S,S,S,,>64,8,>64,8,2,>4,8,>64,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I75.fna,True
+I76,Escherichia coli (CARB+),R,R,R,R,R,S,S,S,S,S,R,R,R,>64,2,>64,2,2,0.008,0.5,2,0.5,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I76.fna,True
+I77,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,>64,2,>64,0.125,4,0.008,0.0625,1,0.5,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I77.fna,True
+I78,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,>64,2,>64,0.125,4,0.008,0.125,2,0.125,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I78.fna,True
+I79,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,S,R,R,R,>64,2,>64,4,2,0.125,2,1,0.125,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I79.fna,True
+I80,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,>64,2,>64,0.25,4,0.008,0.25,1,0.25,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I80.fna,True
+I81,Escherichia coli (CARB+),R,R,R,R,S,S,S,S,S,S,R,R,R,>64,8,>64,16,4,>4,16,>64,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\I81.fna,True
+J1,Escherichia coli (CARB+),R,R,R,R,R,R,R,S,S,S,R,R,R,>64,8,>64,>64,4,>4,>64,2,8,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J1.fna,True
+J2,Escherichia coli (CARB+),R,R,R,R,R,R,R,S,S,S,R,R,R,>64,8,>64,64,4,0.5,4,4,0.25,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J2.fna,True
+J3,Escherichia coli (CARB+),R,R,R,S,R,S,,S,S,S,R,R,R,>64,2,>64,0.25,1,0.25,0.5,1,1,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J3.fna,True
+J4,Escherichia coli (CARB+),R,R,R,R,S,S,S,R,S,S,R,R,R,>64,2,>64,0.125,2,0.015,0.125,>64,0.5,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J4.fna,True
+J5,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,,R,R,R,>64,2,>64,0.125,2,>4,0.125,2,0.25,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J5.fna,True
+J6,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,R,R,R,>64,2,>64,0.125,2,0.008,0.25,2,0.5,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J6.fna,True
+J7,Escherichia coli (ESBL+),R,S,R,R,S,S,R,S,S,R,S,S,R,>64,2,>64,>64,2,>4,64,1,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J7.fna,True
+J8,Escherichia coli,S,S,R,R,S,S,R,S,S,,S,S,R,>64,1,>64,2,2,>4,1,1,0.03,0.5,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J8.fna,True
+J9,Escherichia coli (ESBL+),R,S,R,R,S,S,R,S,S,S,S,S,R,>64,8,>64,64,1,>4,64,8,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J9.fna,True
+J11,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,4,>64,0.25,2,>4,0.0625,>64,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J11.fna,True
+J27,Escherichia coli,R,R,R,R,R,S,S,S,S,S,S,S,R,>64,2,>64,2,>64,0.125,16,1,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J27.fna,True
+J12,Escherichia coli,R,R,S,S,S,,R,R,,S,S,S,R,>64,4,>64,0.25,2,>4,0.125,>64,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J12.fna,True
+J13,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.125,4,0.008,<0.03,1,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J13.fna,True
+J14,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,>64,8,>64,32,2,>4,16,>64,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J14.fna,True
+J17,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,2,>64,0.25,2,>4,<0.03,>64,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J17.fna,True
+J19,Escherichia coli,R,S,S,S,S,,R,R,,R,S,S,R,>64,16,>64,0.125,2,>4,0.25,>64,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J19.fna,True
+J20,Escherichia coli,R,I,S,S,S,,S,R,,S,S,S,R,>64,2,>64,>64,2,0.008,0.0625,>64,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J20.fna,True
+J21,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,4,0.125,2,0.008,<0.03,2,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J21.fna,True
+J25,Escherichia coli,S,S,S,S,S,,S,R,,R,S,S,R,>64,2,>64,0.125,64,0.008,<0.03,>64,0.03,<0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J25.fna,True
+J29,Escherichia coli (ESBL+),S,S,R,R,S,,S,S,,S,S,S,R,>64,4,>64,32,2,0.0625,>64,2,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J29.fna,True
+J30,Escherichia coli,S,S,R,R,S,,R,S,,S,S,S,R,>64,4,,32,4,>4,>64,1,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J30.fna,True
+J31,Escherichia coli (ESBL+),R,S,R,R,S,,R,S,,S,S,S,R,>64,4,,16,1,>4,32,2,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J31.fna,True
+J33,Escherichia coli (ESBL+),R,S,R,R,S,S,S,R,S,S,S,S,R,>64,2,,>64,1,0.008,4,>64,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J33.fna,True
+J34,Escherichia coli,S,S,S,S,S,,I,R,,S,S,S,R,>64,2,,1,2,0.25,0.0625,>64,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J34.fna,True
+J35,Escherichia coli,R,I,S,S,S,,S,S,,R,S,S,R,>64,2,,0.25,2,0.008,0.0625,1,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J35.fna,True
+J36,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,2,,0.125,<0.03,0.008,<0.03,1,,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J36.fna,True
+J56,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,,0.125,0.25,0.008,<0.03,1,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J56.fna,True
+J57,Escherichia coli,R,S,R,R,S,S,S,S,S,S,S,S,R,>64,2,,1,4,0.008,0.0625,0.5,0.015,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J57.fna,True
+J58,Escherichia coli (ESBL+),S,S,R,R,S,S,S,S,S,S,S,S,R,>64,2,,0.25,1,0.03,1,4,0.03,0.03,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J58.fna,True
+J59,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,2,,0.125,1,0.008,<0.03,0.5,0.008,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J59.fna,True
+J60,Escherichia coli,R,S,S,S,S,,S,R,,S,S,S,R,>64,2,,0.5,2,0.008,0.0625,>64,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J60.fna,True
+J61,Escherichia coli (ESBL+),R,S,R,R,R,S,S,S,S,S,S,S,R,>64,2,,4,1,0.008,>64,1,0.0625,0.03,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J61.fna,True
+J62,Escherichia coli,R,S,S,S,S,,R,S,,S,S,S,R,>64,2,,0.25,2,>4,<0.03,1,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J62.fna,True
+J63,Escherichia coli,R,S,R,S,S,,R,S,,R,,S,R,>64,2,,0.25,0.25,0.125,<0.03,1,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J63.fna,True
+J64,Escherichia coli (ESBL+),R,S,R,R,S,S,S,S,S,S,S,S,R,,<0.03,,,<0.03,0.03,,0.5,<0.004,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J64.fna,True
+J65,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,,0.25,0.5,0.008,<0.03,2,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J65.fna,True
+J66,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,>64,8,,64,2,>4,>64,>64,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J66.fna,True
+J67,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,>64,4,,0.25,1,>4,<0.03,>64,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J67.fna,True
+J68,Escherichia coli,R,S,S,S,S,,R,S,,S,S,S,R,8,4,,0.25,2,>4,<0.03,2,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J68.fna,True
+J70,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,R,>64,8,,4,4,>4,8,2,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J70.fna,True
+J71,Escherichia coli (ESBL+),R,S,R,R,S,S,R,S,S,S,S,S,R,>64,8,,32,2,>4,>64,2,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J71.fna,True
+J72,Escherichia coli,S,S,R,R,S,,S,S,,S,S,S,R,>64,4,,16,1,0.008,64,2,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J72.fna,True
+J73,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,2,,0.5,,,<0.03,1,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J73.fna,True
+J74,Escherichia coli,S,S,R,R,S,S,R,S,S,S,S,S,R,>64,2,,16,0.5,>4,64,1,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J74.fna,True
+J76,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,>64,1,,0.125,0.5,0.008,<0.03,1,<0.004,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J76.fna,True
+J77,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,4,,0.5,1,>4,0.0625,>64,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J77.fna,True
+J78,Escherichia coli,R,R,S,S,S,,S,S,,S,S,S,R,>64,2,,0.5,4,0.125,0.0625,2,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J78.fna,True
+J79,Escherichia coli,S,S,R,R,S,,R,S,,S,S,S,R,64,4,,2,1,>4,1,2,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J79.fna,True
+J80,Escherichia coli,S,S,R,R,S,,R,R,,S,S,S,R,>64,8,,32,4,>4,>64,>64,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J80.fna,True
+J81,Escherichia coli,S,S,R,R,S,,R,S,,S,S,S,,>64,2,,2,0.25,>4,1,2,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\J81.fna,True
+K1,Escherichia coli (ESBL+),R,I,R,R,S,S,R,S,S,S,S,S,R,>64,16,,>64,,>4,>64,2,0.125,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K1.fna,True
+K2,Escherichia coli,,S,R,R,S,,R,R,,S,S,S,,>64,8,,>64,1,>4,>64,>64,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K2.fna,True
+K3,Escherichia coli,R,S,R,R,S,,S,S,,S,S,S,R,>64,2,,1,0.5,0.008,0.0625,1,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K3.fna,True
+K4,Escherichia coli,R,I,R,R,R,S,S,S,S,S,S,S,R,>64,2,,1,<0.03,,<0.03,0.5,<0.004,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K4.fna,True
+K5,Escherichia coli (ESBL+),R,I,R,R,S,S,R,S,S,S,S,S,R,>64,16,,64,4,>4,>64,8,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K5.fna,True
+K6,Escherichia coli,R,I,R,R,S,,R,S,,S,S,S,R,>64,4,,>64,2,>4,>64,2,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K6.fna,True
+K7,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,,>64,4,,32,2,>4,>64,2,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K7.fna,True
+K10,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,,>64,4,,0.5,0.5,,0.125,,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K10.fna,True
+K11,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,,>64,2,,0.25,,0.008,<0.03,1,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K11.fna,True
+K13,Escherichia coli,R,S,R,R,S,,R,R,S,S,S,S,R,>64,8,,16,1,>4,32,>64,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K13.fna,True
+K14,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,,0.5,1,0.125,0.125,2,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K14.fna,True
+K15,Escherichia coli,R,S,R,R,S,S,S,S,S,S,S,S,R,>64,4,,1,1,0.008,<0.03,2,0.125,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K15.fna,True
+K16,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,,0.25,1,0.008,<0.03,1,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K16.fna,True
+K17,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,>64,8,,32,4,>4,>64,>64,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K17.fna,True
+K18,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,,0.25,,,0.0625,2,,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K18.fna,True
+K19,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,,0.25,1,0.008,<0.03,1,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K19.fna,True
+K20,Escherichia coli (ESBL+),R,S,R,R,S,,R,R,,S,S,S,R,>64,8,,8,2,>4,64,64,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K20.fna,True
+K21,Escherichia coli,R,S,R,R,R,S,S,S,S,S,S,S,R,>64,1,,8,1,0.008,0.0625,0.5,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K21.fna,True
+K22,Escherichia coli,R,S,R,R,S,,S,S,,S,S,S,R,16,2,,1,4,0.008,0.125,1,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K22.fna,True
+K23,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,,>64,2,,0.125,4,0.0625,<0.03,1,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K23.fna,True
+K24,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,>64,4,,0.25,>64,>4,0.0625,>64,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K24.fna,True
+K25,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,,>64,4,,32,2,>4,32,2,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K25.fna,True
+K26,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,,8,2,,0.5,1,>4,0.0625,1,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K26.fna,True
+K27,Escherichia coli,R,S,S,S,S,,R,R,,S,S,S,R,>64,4,,0.25,2,>4,<0.03,>64,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K27.fna,True
+K29,Escherichia coli,R,R,S,S,S,,R,S,,S,S,S,R,>64,2,,0.5,1,0.0625,0.0625,1,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K29.fna,True
+K31,Escherichia coli,R,S,S,S,S,,S,R,,S,S,S,R,>64,2,,0.25,2,0.0625,0.0625,>64,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K31.fna,True
+K32,Escherichia coli,R,R,S,S,S,,S,S,,S,S,S,R,>64,4,,0.25,>64,0.008,0.5,2,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K32.fna,True
+K33,Escherichia coli,R,R,S,S,S,,S,S,,S,S,S,R,>64,4,,1,4,0.0625,0.125,2,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K33.fna,True
+K34,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,,0.25,1,0.008,<0.03,1,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K34.fna,True
+K35,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,,>64,2,,0.125,2,0.008,<0.03,1,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K35.fna,True
+K36,Escherichia coli,R,S,R,R,,S,R,S,S,,S,S,R,64,2,,1,8,>4,0.125,8,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K36.fna,True
+K58,Escherichia coli,R,S,R,S,R,,S,S,,R,S,S,R,>64,2,,4,4,0.008,<0.03,1,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K58.fna,True
+K59,Escherichia coli,S,S,R,R,S,,R,S,,S,S,S,R,>64,4,,16,2,>4,16,2,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K59.fna,True
+K60,Escherichia coli,S,S,R,R,S,,R,S,,S,S,S,R,>64,4,,16,2,>4,8,2,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K60.fna,True
+K61,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,8,,0.5,2,0.008,<0.03,1,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K61.fna,True
+K62,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,2,,0.25,2,>4,<0.03,>64,0.03,0.03,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K62.fna,True
+K63,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,>64,2,,0.5,4,0.03,0.0625,2,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K63.fna,True
+K64,Escherichia coli,S,S,R,S,R,,R,S,,S,S,S,,>64,4,,0.5,4,>4,0.0625,2,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K64.fna,True
+K65,Escherichia coli,R,S,R,R,S,,R,R,,S,S,S,R,>64,4,,64,4,>4,>64,>64,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K65.fna,True
+K66,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,,>64,4,,0.25,2,>4,<0.03,>64,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K66.fna,True
+K67,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,,>64,2,,0.25,2,0.008,<0.03,1,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K67.fna,True
+K68,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,8,2,,0.25,4,0.008,<0.03,2,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K68.fna,True
+K69,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,,0.5,8,0.015,0.125,2,0.015,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K69.fna,True
+K70,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,4,,0.5,2,0.008,<0.03,2,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K70.fna,True
+K71,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,,0.25,1,0.008,<0.03,1,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K71.fna,True
+K72,Escherichia coli,R,S,S,S,S,,S,R,,S,S,S,R,>64,4,,0.25,4,0.008,<0.03,>64,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K72.fna,True
+K73,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,8,2,,0.25,2,0.008,<0.03,1,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K73.fna,True
+K74,Escherichia coli (ESBL+),R,S,R,R,S,S,S,S,S,S,S,S,R,2,2,,0.125,4,0.008,<0.03,1,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K74.fna,True
+K75,Escherichia coli,R,S,R,R,R,S,S,S,S,S,S,S,R,>64,2,,1,2,0.008,<0.03,1,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K75.fna,True
+K76,Escherichia coli,R,I,R,R,S,S,R,S,S,S,S,S,R,>64,2,,16,8,>4,32,2,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K76.fna,True
+K77,Escherichia coli,R,S,R,R,R,,S,R,,S,S,S,R,>64,2,,8,2,0.008,0.0625,16,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K77.fna,True
+K78,Escherichia coli,S,S,S,S,,,R,S,,,S,S,R,>64,4,,0.5,2,>4,<0.03,2,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K78.fna,True
+K79,Escherichia coli,R,S,R,R,R,S,S,S,S,S,,S,R,>64,2,,2,2,0.008,0.0625,1,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K79.fna,True
+K80,Escherichia coli,S,S,S,S,S,,S,R,,S,S,S,R,>64,2,,0.5,4,0.125,0.0625,>64,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K80.fna,True
+K81,Escherichia coli (ESBL+),R,I,R,R,S,,R,S,,S,S,S,R,>64,4,,32,2,>4,>64,2,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\K81.fna,True
+L1,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,2,2,,0.125,2,0.008,<0.03,1,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L1.fna,True
+L2,Escherichia coli,R,S,S,S,S,,S,R,,S,S,S,R,>64,0.5,,0.0625,<0.03,,,8,,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L2.fna,True
+L4,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,2,4,,0.125,2,0.008,<0.03,2,0.015,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L4.fna,True
+L5,Escherichia coli,R,S,R,R,S,S,S,S,S,S,S,S,R,>64,2,,1,1,0.008,2,4,0.008,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L5.fna,True
+L6,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,,0.25,4,0.008,0.0625,1,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L6.fna,True
+L7,Escherichia coli (CARB+),R,R,R,R,R,S,R,R,S,S,R,R,R,>64,4,,8,>64,>4,>64,>64,4,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L7.fna,True
+L8,Escherichia coli (ESBL+),R,S,R,R,S,S,S,S,S,S,S,S,R,,0.5,64,0.5,2,0.015,<0.03,,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L8.fna,True
+L9,Escherichia coli (ESBL+),R,I,R,R,S,S,R,S,S,S,S,S,R,,2,>64,64,1,>4,>64,,0.125,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L9.fna,True
+L10,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,4,>64,0.125,1,0.008,0.0625,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L10.fna,True
+L11,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,,8,>64,32,2,>4,64,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L11.fna,True
+L14,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,4,4,0.0625,2,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L14.fna,True
+L15,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,2,4,0.125,2,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L15.fna,True
+L17,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,4,4,0.125,4,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L17.fna,True
+L18,Escherichia coli,R,S,R,R,S,,S,S,,S,S,S,R,,1,>64,2,4,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L18.fna,True
+L19,Escherichia coli,R,S,R,R,R,S,S,S,S,S,S,S,R,,4,>64,1,2,0.008,<0.03,,0.03,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L19.fna,True
+L22,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,,4,>64,0.25,2,>4,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L22.fna,True
+L23,Escherichia coli,R,S,R,R,S,S,S,S,S,S,S,S,R,,2,4,0.0625,2,0.008,<0.03,,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L23.fna,True
+L24,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,,8,>64,>64,4,>4,>64,,0.125,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L24.fna,True
+L25,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,2,>64,0.0625,2,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L25.fna,True
+L32,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,,2,4,0.0625,1,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L32.fna,True
+L33,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,,2,>64,0.125,2,0.008,0.0625,,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L33.fna,True
+L35,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,R,,,>64,0.125,,,<0.03,,,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L35.fna,True
+L36,Escherichia coli,R,S,R,R,R,,S,S,S,,S,S,R,,4,>64,0.5,2,0.008,<0.03,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L36.fna,True
+L37,Escherichia coli (ESBL+),S,S,R,R,S,,S,S,S,,S,S,R,,4,>64,16,2,0.125,16,,0.125,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L37.fna,True
+L38,Escherichia coli,R,S,S,S,S,,R,S,S,,S,S,R,,16,>64,0.25,1,>4,0.0625,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L38.fna,True
+L39,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,,4,>64,0.25,4,0.125,0.0625,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L39.fna,True
+L40,Escherichia coli,R,S,R,R,R,,S,S,S,,S,S,R,,2,64,1,2,0.008,<0.03,,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L40.fna,True
+L41,Escherichia coli,R,,S,S,S,S,S,S,,S,S,S,R,,2,>64,0.125,64,0.008,0.0625,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L41.fna,True
+L42,Escherichia coli (ESBL+),R,,R,R,S,S,R,S,,S,S,S,R,,4,>64,64,4,>4,32,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L42.fna,True
+L43,Escherichia coli (ESBL+),S,,R,R,S,S,R,S,,S,S,S,R,,4,>64,64,2,>4,>64,,0.125,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L43.fna,True
+L44,Escherichia coli (ESBL+),R,,R,R,S,S,R,R,S,S,S,S,R,,8,>64,32,2,>4,64,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L44.fna,True
+L45,Escherichia coli,R,,R,R,S,S,R,S,,S,S,S,R,,16,>64,1,4,>4,1,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L45.fna,True
+L46,Escherichia coli,S,S,R,R,S,,R,S,,S,S,S,R,,8,64,1,1,>4,2,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L46.fna,True
+L48,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,,<0.03,>64,0.0625,,,<0.03,,,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L48.fna,True
+L49,Escherichia coli (ESBL+),R,R,R,R,S,,R,R,,S,S,S,R,,16,>64,>64,4,>4,>64,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L49.fna,True
+L50,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,2,>64,0.5,4,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L50.fna,True
+L51,Escherichia coli (ESBL+),S,S,R,R,S,,R,S,,S,S,S,R,,4,>64,32,2,>4,64,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L51.fna,True
+L52,Escherichia coli,S,S,R,S,S,,R,S,,S,S,S,R,,2,>64,0.5,8,>4,0.125,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L52.fna,True
+L53,Escherichia coli (ESBL+),R,S,R,R,S,,R,R,,S,S,S,R,,8,>64,>64,2,>4,>64,,0.125,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L53.fna,True
+L54,Escherichia coli (ESBL+),S,S,R,R,S,,R,S,,S,S,S,R,,4,>64,32,1,>4,>64,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L54.fna,True
+L55,Escherichia coli (ESBL+),R,S,R,R,S,,R,R,,S,S,S,R,,8,>64,32,1,>4,>64,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L55.fna,True
+L56,Escherichia coli,R,,R,R,R,,R,R,,R,S,R,R,,32,>64,>64,1,>4,>64,,1,0.03,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L56.fna,True
+L57,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,4,>64,0.0625,2,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L57.fna,True
+L58,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,,4,>64,0.25,2,0.008,0.125,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L58.fna,True
+L59,Escherichia coli,S,S,R,R,S,,R,S,,S,S,S,R,,4,>64,4,2,>4,4,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L59.fna,True
+L60,Escherichia coli (ESBL+),R,S,R,R,S,,R,R,,S,S,S,R,,8,>64,16,4,>4,>64,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L60.fna,True
+L62,Escherichia coli (ESBL+),R,S,R,R,S,,R,R,,S,S,S,R,,16,>64,64,32,>4,>64,,0.125,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L62.fna,True
+L63,Escherichia coli,S,S,R,R,S,,S,S,,S,S,S,R,,2,>64,16,2,0.008,16,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L63.fna,True
+L64,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,,2,>64,0.25,4,0.008,0.0625,,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L64.fna,True
+L65,Escherichia coli (ESBL+),S,S,R,R,S,,R,S,,S,S,S,R,,4,>64,4,4,>4,8,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L65.fna,True
+L66,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,,4,>64,0.0625,4,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L66.fna,True
+L67,Escherichia coli,S,S,R,R,S,,R,R,,S,S,S,R,,4,>64,16,4,>4,16,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L67.fna,True
+L68,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,,4,>64,16,4,>4,64,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L68.fna,True
+L72,Escherichia coli,R,I,R,S,I,S,R,R,S,S,S,S,R,,4,>64,0.5,64,>4,0.25,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L72.fna,True
+L73,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,4,>64,0.0625,4,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L73.fna,True
+L81,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,R,,4,>64,8,2,>4,4,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\L81.fna,True
+M1,Escherichia coli,R,S,R,S,S,,R,S,,S,S,S,R,,4,>64,0.0625,4,>4,<0.03,,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M1.fna,True
+M14,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,2,4,0.0625,2,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M14.fna,True
+M15,Escherichia coli (ESBL+),R,S,R,R,R,S,R,R,S,S,S,S,R,,4,>64,32,>64,>4,64,,0.125,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M15.fna,True
+M18,Escherichia coli,R,S,R,R,S,S,I,S,S,S,S,S,R,,2,>64,0.25,4,0.0625,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M18.fna,True
+M21,Escherichia coli,S,S,R,R,S,,R,R,S,,S,S,R,,4,>64,64,4,>4,>64,,0.125,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M21.fna,True
+M22,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,,4,4,0.0625,2,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M22.fna,True
+M24,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,,2,>64,0.125,8,0.008,0.0625,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M24.fna,True
+M25,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,R,,4,>64,0.125,4,0.008,0.0625,,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M25.fna,True
+M28,Escherichia coli,R,,S,S,S,S,S,S,,S,S,S,R,,4,>64,0.25,2,0.008,0.125,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M28.fna,True
+M29,Escherichia coli,R,,R,R,R,S,S,R,S,S,S,S,R,,,>64,8,8,0.125,0.125,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M29.fna,True
+M30,Escherichia coli,R,,R,R,I,S,S,S,,S,S,S,R,,4,>64,1,4,0.008,0.0625,,0.03,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M30.fna,True
+M33,Escherichia coli,S,S,R,R,S,,S,S,,S,S,S,R,,4,>64,8,4,0.125,8,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M33.fna,True
+M34,Escherichia coli (ESBL+),I,S,R,R,S,S,R,S,S,S,S,S,R,,2,>64,4,8,>4,4,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M34.fna,True
+M35,Escherichia coli,R,I,R,R,S,S,S,S,S,S,S,S,R,,2,64,0.5,2,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M35.fna,True
+M36,Escherichia coli,R,S,R,R,S,S,R,S,I,S,S,S,R,,16,>64,8,2,>4,8,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M36.fna,True
+M37,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,2,>64,0.0625,2,0.008,<0.03,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M37.fna,True
+M38,Escherichia coli (ESBL+),S,S,R,R,S,S,S,S,S,S,S,S,R,,4,>64,2,4,0.008,64,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M38.fna,True
+M39,Escherichia coli,R,S,R,R,R,,R,S,,S,S,S,R,,16,>64,64,8,>4,1,,0.125,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M39.fna,True
+M40,Escherichia coli (ESBL+),R,S,R,R,S,S,R,R,S,S,S,S,R,,8,>64,64,4,>4,>64,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M40.fna,True
+M41,Escherichia coli,R,R,S,S,S,,S,S,,S,S,S,R,,2,>64,0.25,>64,0.008,0.125,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M41.fna,True
+M42,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,,4,>64,0.25,4,0.015,0.0625,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M42.fna,True
+M44,Escherichia coli (ESBL+),S,S,R,R,S,S,R,S,S,S,S,S,R,,2,>64,16,1,>4,32,,0.0625,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\M44.fna,True
+B56,Escherichia coli,R,S,S,S,S,,R,S,,S,S,S,R,>64,2,>64,0.125,2,>4,<0.03,0.5,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B56.fna,True
+B62,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,2,>64,0.125,4,,0.0625,0.5,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\B62.fna,True
+C15,Escherichia coli,S,S,S,S,S,,R,R,,S,S,S,R,>64,4,>64,0.125,8,>4,0.0625,8,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C15.fna,True
+C17,Escherichia coli,S,S,S,S,S,,R,S,,S,S,S,S,8,4,8,0.0625,8,>4,0.0625,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C17.fna,True
+C51,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,>64,4,8,0.25,4,0.008,0.0625,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C51.fna,True
+C64,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,,8,,,2,0.008,,4,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\C64.fna,True
+E38,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,2,2,4,0.0625,4,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\E38.fna,True
+F16,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,>64,4,>64,0.25,>64,0.008,0.0625,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F16.fna,True
+F17,Escherichia coli (ESBL+),S,R,R,R,S,,S,S,,S,S,S,R,>64,2,>64,64,2,0.008,>64,2,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F17.fna,True
+F26,Escherichia coli (ESBL+),S,S,R,R,S,,R,S,,S,S,S,R,>64,2,>64,16,2,>4,16,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F26.fna,True
+F29,Escherichia coli (ESBL+),R,S,R,R,S,,R,R,,S,S,S,R,>64,4,>64,64,4,>4,>64,>64,0.0625,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F29.fna,True
+F30,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,8,2,8,0.125,2,0.008,<0.03,1,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F30.fna,True
+F31,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,4,2,4,0.125,2,0.008,<0.03,2,0.03,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\F31.fna,True
+G11,Escherichia coli,R,,,R,R,,S,S,,,S,,R,,2,>64,>64,4,0.008,4,2,0.125,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G11.fna,True
+G15,Escherichia coli (CARB+),R,R,S,S,S,S,S,S,S,S,,R,R,,2,>64,0.25,4,0.25,0.125,0.25,0.5,,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\G15.fna,True
+N1,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,,>64,0.0625,,,<0.03,,,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N1.fna,True
+N2,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,R,,2,>64,0.0625,2,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N2.fna,True
+N3,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,2,4,0.0625,2,0.0625,<0.03,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N3.fna,True
+N4,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,2,>64,0.0625,2,0.008,<0.03,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N4.fna,True
+N5,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,,4,4,0.125,4,0.125,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N5.fna,True
+N6,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,4,2,0.015,1,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N6.fna,True
+N7,Escherichia coli,R,S,S,S,S,,S,S,S,,S,S,R,,2,>64,0.125,4,0.008,0.0625,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N7.fna,True
+N8,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,2,>64,0.015,1,0.008,<0.03,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N8.fna,True
+N9,Escherichia coli,S,S,S,S,S,,S,S,S,,S,S,S,,1,4,0.125,4,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N9.fna,True
+N10,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,4,4,0.0625,4,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N10.fna,True
+N11,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,4,4,0.0625,2,0.008,<0.03,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N11.fna,True
+N12,Escherichia coli,R,S,S,S,S,,S,R,S,,S,S,R,,2,>64,0.0625,4,0.015,<0.03,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N12.fna,True
+N14,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,,4,>64,0.25,4,0.0625,0.5,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N14.fna,True
+N15,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,4,>64,0.25,64,0.008,0.0625,,0.03,0.25,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N15.fna,True
+N16,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,4,>64,0.125,4,0.008,0.0625,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N16.fna,True
+N17,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,R,,2,>64,0.125,2,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N17.fna,True
+N18,Escherichia coli,S,S,S,S,S,,S,S,S,S,S,S,S,,4,>64,0.0625,4,0.125,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N18.fna,True
+N19,Escherichia coli,R,S,S,S,S,,S,S,,S,S,S,R,,2,>64,0.125,2,0.008,0.0625,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N19.fna,True
+N20,Escherichia coli,S,S,S,S,S,,S,S,,S,S,S,S,,2,4,0.0625,2,0.008,<0.03,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N20.fna,True
+N22,Escherichia coli,S,,S,S,S,S,S,S,,S,S,S,R,,4,>64,0.0625,2,0.008,<0.03,,0.0625,0.0625,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N22.fna,True
+N23,Escherichia coli,R,,S,S,S,S,S,S,,S,S,S,R,,2,>64,0.125,4,0.008,0.0625,,0.0625,0.125,C:\Users\Preetam\Desktop\Quantum-kernel-Svm\data\raw\FNA_GENOMES\genomes\N23.fna,True

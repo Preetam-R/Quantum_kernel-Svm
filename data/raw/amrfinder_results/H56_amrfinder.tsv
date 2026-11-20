@@ -1,0 +1,3 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	NODE_20_length_88192_cov_127.389502	43410	45953	+	cyaA_S352T	Escherichia fosmidomycin resistant CyaA	core	AMR	POINT	FOSMIDOMYCIN	FOSMIDOMYCIN	POINTX	848	848	100.00	99.29	848	WP_000281668.1	adenylate cyclase CyaA	NA	NA
+NA	NODE_2_length_402798_cov_127.270783	152912	155167	-	parC_S57T	Escherichia quinolone resistant ParC	core	AMR	POINT	QUINOLONE	QUINOLONE	POINTX	752	752	100.00	99.20	752	WP_001281881.1	DNA topoisomerase IV subunit A ParC	NA	NA
