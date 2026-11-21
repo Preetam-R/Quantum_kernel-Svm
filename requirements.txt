@@ -1,1 +1,10 @@
-# Add project dependencies here.
+# Core Data & ML Dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+joblib>=1.3.0
+
+# Future Quantum Machine Learning (Phase D)
+# qiskit
+# qiskit-machine-learning
